@@ -9,3 +9,4 @@ moving file
 deleting betty
 dir deletion
 changing directory
+lists
