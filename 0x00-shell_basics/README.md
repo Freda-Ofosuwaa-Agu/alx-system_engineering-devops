@@ -12,3 +12,4 @@ changing directory
 lists
 file type
 symbols
+html files
