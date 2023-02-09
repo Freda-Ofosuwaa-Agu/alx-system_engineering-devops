@@ -11,3 +11,4 @@ dir deletion
 changing directory
 lists
 file type
+symbols
