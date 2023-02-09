@@ -10,3 +10,4 @@ deleting betty
 dir deletion
 changing directory
 lists
+file type
