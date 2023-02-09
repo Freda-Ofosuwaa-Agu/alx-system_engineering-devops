@@ -8,3 +8,4 @@ script that creates a directory
 moving file
 deleting betty
 dir deletion
+changing directory
